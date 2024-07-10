@@ -11,4 +11,4 @@
     - Regex Tokenizer from the Karpathy Exercise, also implemented handling of special tokens.
 
 #### TO-DO
-[ ] Implement sentence piece 
+- [ ] Implement sentence piece 
